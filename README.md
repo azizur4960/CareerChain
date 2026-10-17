@@ -1,2 +1,2 @@
 # CareerChain
-Alumny Engagement Portal
+Alumni Engagement Portal

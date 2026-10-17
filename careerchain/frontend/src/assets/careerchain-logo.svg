@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1218 340" role="img" aria-labelledby="logo-title logo-desc">
+  <title id="logo-title">CareerChain — Daffodil International University</title>
+  <desc id="logo-desc">CareerChain blue and green graduate connection logo</desc>
+  <defs>
+    <linearGradient id="chain-green" x1="0" x2="1">
+      <stop offset="0" stop-color="#04966d" />
+      <stop offset="1" stop-color="#05a779" />
+    </linearGradient>
+  </defs>
+  <g aria-hidden="true">
+    <!-- Graduation cap and tassel -->
+    <path fill="#075398" d="M100 80 210 37l110 43-112 45L100 80Z" />
+    <path fill="none" stroke="#075398" stroke-linecap="round" stroke-width="8" d="m319 81 1 43" />
+    <circle cx="320" cy="130" r="7" fill="#075398" />
+    <!-- Community members -->
+    <circle cx="125" cy="145" r="25" fill="#075398" />
+    <circle cx="277" cy="145" r="25" fill="#0aa579" />
+    <path fill="#075398" d="M125 177c-39 0-65 22-68 57 16 17 37 27 65 29l35-22 26-37c-13-17-33-27-58-27Z" />
+    <path fill="url(#chain-green)" d="M277 177c39 0 65 22 68 57-16 17-37 27-65 29l-35-22-26-37c13-17 33-27 58-27Z" />
+    <!-- Interlinked chain mark -->
+    <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="18" d="m124 224 29-29c16-16 40-16 56 0l8 8m-8 28-30 30c-16 16-40 16-56 0l-8-8" />
+    <path fill="none" stroke="#0aa579" stroke-linecap="round" stroke-linejoin="round" stroke-width="17" d="m190 230 31-31c16-16 40-16 56 0l8 8m-8 28-31 31c-16 16-40 16-56 0l-8-8" />
+    <path fill="none" stroke="#075398" stroke-linecap="round" stroke-linejoin="round" stroke-width="17" d="m137 239 27-27c10-10 24-13 37-8" />
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" font-weight="700">
+    <text x="365" y="193" fill="#06477f" font-size="126" letter-spacing="-5" textLength="403" lengthAdjust="spacingAndGlyphs">Career</text>
+    <text x="756" y="193" fill="url(#chain-green)" font-size="126" letter-spacing="-5" textLength="430" lengthAdjust="spacingAndGlyphs">Chain</text>
+  </g>
+  <text x="375" y="255" fill="#40596e" font-family="Arial, Helvetica, sans-serif" font-size="39" font-weight="500" letter-spacing="3.4" textLength="746" lengthAdjust="spacingAndGlyphs">Daffodil International University</text>
+</svg>
