@@ -1,0 +1,201 @@
+[
+  {
+    "id": "playbook-project-portfolio-01",
+    "topic": "Portfolio Projects and Project Ideas",
+    "category": "Portfolio Development",
+    "overview": "A useful portfolio project solves a specific problem, has a clear user, and demonstrates the skills required for the target role. A small finished product with thoughtful trade-offs is stronger evidence than several unfinished tutorial clones.",
+    "core_skills": ["Problem framing", "Git and GitHub", "Readable documentation", "Testing", "Deployment", "User feedback"],
+    "project_ideas": [
+      "Build a campus event finder with searchable events, organizer details, and calendar reminders.",
+      "Create a project-team matcher where students list skills, availability, and a project goal.",
+      "Make a lab equipment booking tool with conflict checks and a simple admin workflow.",
+      "Build a bus schedule helper that clearly shows route information and known data limitations.",
+      "Create an internship application tracker with deadlines, status, and follow-up reminders."
+    ],
+    "learning_roadmap": [
+      "Choose one real problem from campus life, a local business, or a community workflow and write a one-sentence user need.",
+      "Define a small first release with three core user tasks; sketch the flow before choosing tools.",
+      "Build an end-to-end version with validation, useful error states, and a few automated tests.",
+      "Deploy a demo and write a README with screenshots, setup steps, architecture choices, and known limitations.",
+      "Ask two or three people to try it, record what confused them, and make one improvement based on feedback."
+    ],
+    "interview_topics": ["Explain the user problem and how you validated it.", "Describe one technical trade-off and an alternative you considered.", "Show how you tested, deployed, and improved the project.", "Be clear about your own contribution if you worked with a team."],
+    "diu_campus_advice": "A campus event finder, project-team matcher, lab equipment booking tool, or bus schedule helper can make a strong DIU-focused case study when built around real user feedback."
+  },
+  {
+    "id": "playbook-internship-search-02",
+    "topic": "Internship Search and Applications",
+    "category": "Job Search",
+    "overview": "An internship search works best as a steady, targeted process. Students can use a role tracker, tailor evidence to each description, and ask for feedback before applying rather than sending the same application everywhere.",
+    "core_skills": ["Role research", "Resume tailoring", "Application tracking", "Professional communication", "Interview preparation"],
+    "learning_roadmap": [
+      "Choose two or three role titles and list the skills that appear repeatedly in current postings.",
+      "Prepare a one-page resume that connects coursework and projects to those requirements with specific evidence.",
+      "Track company, role, deadline, contact, application date, and follow-up date in a simple spreadsheet.",
+      "Apply to a manageable number of well-matched roles each week and tailor the first few resume bullets.",
+      "After applying, prepare a short introduction and one project story in case a recruiter responds."
+    ],
+    "interview_topics": ["Why this internship and company?", "What did you build and what was your contribution?", "How do you approach a skill you have not used before?", "What did you learn from a project setback?"],
+    "diu_campus_advice": "Check official company career pages, DIU career announcements, faculty and club networks, and alumni posts. Confirm dates and eligibility on the employer's own page."
+  },
+  {
+    "id": "playbook-resume-evidence-03",
+    "topic": "Resume Bullet Writing and Review",
+    "category": "Resume and Applications",
+    "overview": "A strong resume makes relevant evidence easy to scan. Each project or experience bullet should name the action, the method or tool, and the result or scope without inventing impact metrics.",
+    "core_skills": ["Concise writing", "Project evidence", "Achievement framing", "Keyword matching", "Proofreading"],
+    "learning_roadmap": [
+      "Put the most relevant education, projects, experience, and skills near the top for the target role.",
+      "Start bullets with a precise action verb and explain what you personally implemented.",
+      "Add a measurable result only when it is real; otherwise describe scope, users, records, test coverage, or performance change accurately.",
+      "Use consistent dates, tense, spacing, and link labels, then export and inspect the PDF on a phone and desktop.",
+      "Ask a peer to find your strongest evidence in 20 seconds and revise anything they miss."
+    ],
+    "interview_topics": ["Walk through the project most relevant to this role.", "What changed because of your work?", "Which metric can you verify and how did you measure it?", "What would you improve in the next iteration?"],
+    "diu_campus_advice": "Course projects and capstone work count when you explain the problem, your individual contribution, and the result clearly. Never claim team outcomes as individual work."
+  },
+  {
+    "id": "playbook-behavioral-interviews-04",
+    "topic": "Behavioral Interview Practice",
+    "category": "Interview Preparation",
+    "overview": "Behavioral interviews look for clear examples of how a candidate works with others, handles ambiguity, learns from mistakes, and follows through. The STAR structure helps keep an answer specific and easy to follow.",
+    "core_skills": ["STAR storytelling", "Clear communication", "Reflection", "Teamwork", "Ownership"],
+    "learning_roadmap": [
+      "Select four real examples: a team challenge, a difficult bug, a missed expectation, and a piece of feedback.",
+      "For each example, state the Situation and Task briefly, then spend most of the answer on your Actions.",
+      "End with a concrete Result and what you learned; be honest when the outcome was mixed.",
+      "Practice answers aloud in under two minutes and remove background details that do not support the point.",
+      "Prepare one thoughtful question about the team, mentorship, or first-month expectations."
+    ],
+    "interview_topics": ["Tell me about a time a project did not go as planned.", "Describe a disagreement and how you handled it.", "What feedback changed how you work?", "How do you prioritize when deadlines compete?"],
+    "diu_campus_advice": "Use examples from capstone teams, labs, clubs, competitions, tutoring, and part-time work. Interviewers value the quality of your reflection, not only company experience."
+  },
+  {
+    "id": "playbook-technical-interviews-05",
+    "topic": "Technical Interview Problem Solving",
+    "category": "Interview Preparation",
+    "overview": "Technical interviews assess how candidates clarify a problem, reason about trade-offs, and communicate while solving it. A correct answer matters, but a clear process makes collaboration and evaluation easier.",
+    "core_skills": ["Problem decomposition", "Data structures", "Complexity analysis", "Testing edge cases", "Communication"],
+    "learning_roadmap": [
+      "Review arrays, strings, hash maps, stacks, queues, trees, sorting, and common search patterns.",
+      "For each problem, restate the input and output and ask about constraints before coding.",
+      "Explain a simple approach first, then improve it and state time and space complexity.",
+      "Test a normal case, an empty or smallest case, and a boundary case aloud.",
+      "After practice, write down the pattern you missed instead of memorizing only the final solution."
+    ],
+    "interview_topics": ["Hash map lookup and collision trade-offs.", "Binary search invariants and boundary handling.", "Tree traversal choices and recursion limits.", "How to test a solution when examples are incomplete."],
+    "diu_campus_advice": "Use a weekly practice routine with classmates and explain solutions at a whiteboard. Pairing helps identify communication gaps that solo practice can hide."
+  },
+  {
+    "id": "playbook-networking-alumni-06",
+    "topic": "Networking and Alumni Outreach",
+    "category": "Professional Networking",
+    "overview": "Effective networking starts with a specific, respectful request. A short introduction, a shared point of context, and one focused question make it easier for an alumnus to respond without pressure.",
+    "core_skills": ["Professional messaging", "Research", "Active listening", "Follow-up etiquette", "Relationship building"],
+    "learning_roadmap": [
+      "Identify alumni whose current role or experience connects to a question you genuinely have.",
+      "Write a brief message with your name, DIU connection, target area, and one clear question.",
+      "Ask for advice before asking for a referral; include a role link only when it is relevant.",
+      "Thank the person and summarize one useful takeaway after a conversation.",
+      "If there is no reply, send at most one polite follow-up after a reasonable interval."
+    ],
+    "interview_topics": ["Why did you contact this person?", "What did you learn from the conversation?", "How will you follow up professionally?"],
+    "diu_campus_advice": "CareerChain messaging lets DIU students contact alumni directly. Respect availability settings and keep personal contact information private unless the person shares it."
+  },
+  {
+    "id": "playbook-learning-habits-07",
+    "topic": "Building a Sustainable Learning Plan",
+    "category": "Learning and Career Planning",
+    "overview": "A useful learning plan turns a broad goal into a repeatable weekly routine and visible evidence. It should leave room for coursework, rest, and adjustment when a topic takes longer than expected.",
+    "core_skills": ["Goal setting", "Consistent practice", "Self-assessment", "Time management", "Reflection"],
+    "learning_roadmap": [
+      "Choose one outcome for the next four weeks, such as deploying a small API or completing a dashboard.",
+      "Break it into three or four weekly milestones with a small deliverable for each one.",
+      "Schedule focused sessions around existing classes and reserve time for review and debugging.",
+      "At the end of each week, note what works, what is blocked, and what to change next week.",
+      "Share a demo or explanation with a peer to turn private study into portfolio evidence."
+    ],
+    "interview_topics": ["How do you learn a new tool?", "How do you balance classes and project work?", "What did you do when your learning plan stopped working?"],
+    "diu_campus_advice": "Use semester projects, labs, study groups, and student clubs as real milestones. A realistic schedule followed consistently is more valuable than an overloaded plan."
+  },
+  {
+    "id": "playbook-first-job-08",
+    "topic": "First Job Readiness and Professional Habits",
+    "category": "Workplace Readiness",
+    "overview": "Early-career readiness includes technical foundations and dependable work habits: clarifying expectations, sharing progress, asking focused questions, and documenting decisions.",
+    "core_skills": ["Written communication", "Version control", "Task breakdown", "Feedback", "Reliability"],
+    "learning_roadmap": [
+      "Practice describing a task, expected outcome, and acceptance criteria before implementation.",
+      "Use small commits and pull requests with clear descriptions and screenshots where useful.",
+      "When blocked, share what you tried, the error or uncertainty, and the next question you need answered.",
+      "Ask for feedback early enough to act on it and record recurring lessons.",
+      "Keep a weekly accomplishment log so progress and future resume evidence are easy to recall."
+    ],
+    "interview_topics": ["How do you communicate when a task is delayed?", "How do you respond to code review feedback?", "What do you do when requirements are unclear?"],
+    "diu_campus_advice": "Team capstones, club projects, and volunteer work can help demonstrate these habits when you describe your role and collaboration honestly."
+  },
+  {
+    "id": "playbook-job-description-09",
+    "topic": "Reading Job Descriptions and Skill Gaps",
+    "category": "Job Search",
+    "overview": "Job descriptions mix essential requirements with preferences. Candidates can compare recurring requirements against evidence they already have and prioritize a small number of meaningful skill gaps.",
+    "core_skills": ["Requirement analysis", "Skill mapping", "Prioritization", "Research", "Application tailoring"],
+    "learning_roadmap": [
+      "Highlight repeated responsibilities and required skills across several roles with the same title.",
+      "Mark each item as demonstrated, familiar, or not yet learned using examples rather than confidence alone.",
+      "Prioritize gaps that appear often and are central to the day-to-day work.",
+      "Build or improve one project that demonstrates a high-priority gap.",
+      "Tailor your application honestly and avoid adding keywords for skills you cannot discuss."
+    ],
+    "interview_topics": ["Which requirement do you meet most strongly?", "What skill are you currently improving?", "How did you decide this role was a good fit?"],
+    "diu_campus_advice": "Compare the requirements in CareerChain job posts with your projects and profile. Ask alumni about the actual work when a role description is unclear."
+  },
+  {
+    "id": "playbook-data-projects-10",
+    "topic": "Data and Analytics Portfolio Projects",
+    "category": "Portfolio Development",
+    "overview": "A data portfolio should show the full reasoning path: question, data quality, method, result, and limitation. A polished chart is more convincing when its assumptions and audience are clear.",
+    "core_skills": ["SQL", "Data cleaning", "Exploratory analysis", "Visualization", "Data storytelling"],
+    "learning_roadmap": [
+      "Choose an open dataset with clear provenance and a question that matters to a defined audience.",
+      "Inspect missing values, duplicates, definitions, and sampling limitations before analysis.",
+      "Use SQL or Python to create a reproducible cleaning and analysis workflow.",
+      "Build a small dashboard or report with readable labels and only decision-relevant charts.",
+      "Write a short conclusion that separates observed patterns from causal claims."
+    ],
+    "interview_topics": ["How did you validate your data?", "Why did you choose these metrics?", "What limitations affect your conclusion?", "How would a non-technical stakeholder use the result?"],
+    "diu_campus_advice": "Public Bangladesh datasets on transport, education, health, weather, and commerce can support locally relevant projects. Document the source and its terms of use."
+  },
+  {
+    "id": "playbook-design-case-study-11",
+    "topic": "UI UX Design Portfolio Case Studies",
+    "category": "Design and User Experience",
+    "overview": "A design portfolio case study explains the user problem, constraints, research, iterations, and outcomes. Hiring teams need to see how decisions changed the experience, not just polished screens.",
+    "core_skills": ["User research", "Interaction design", "Prototyping", "Accessibility", "Design rationale"],
+    "learning_roadmap": [
+      "Choose a narrow user journey and state the original problem and audience.",
+      "Show research methods and distinguish direct observations from assumptions.",
+      "Include early sketches or flows and explain what changed after feedback.",
+      "Prototype the key interaction and check keyboard use, contrast, labels, and error states.",
+      "End with usability findings and next steps; do not present untested outcomes as proven impact."
+    ],
+    "interview_topics": ["Which research finding changed your design?", "What accessibility decision did you make?", "How would you test this design with more time?", "How did you collaborate with engineering?"],
+    "diu_campus_advice": "Test prototypes with students from different semesters and departments. Ask them to complete a task without coaching, then revise the flow based on where they hesitate."
+  },
+  {
+    "id": "playbook-career-transition-12",
+    "topic": "Choosing Between Career Paths",
+    "category": "Career Planning",
+    "overview": "Choosing a career path is an experiment, not a permanent identity decision. Students can compare day-to-day tasks, learning preferences, and evidence from small projects before committing to a specialization.",
+    "core_skills": ["Self-assessment", "Role research", "Informational interviews", "Experiment design", "Reflection"],
+    "learning_roadmap": [
+      "Pick two paths and compare their typical daily tasks, collaboration patterns, and core tools.",
+      "Speak with one practitioner or alumnus in each path and ask about an ordinary work week.",
+      "Complete one small project or course exercise in each area rather than relying only on job titles.",
+      "Rate interest, progress, and willingness to keep learning after each experiment.",
+      "Choose a near-term focus for one semester, then review it with new evidence."
+    ],
+    "interview_topics": ["What kind of problems do you enjoy solving?", "Which project gave you energy and why?", "What evidence would help you choose between these roles?"],
+    "diu_campus_advice": "Use elective courses, capstone topics, student clubs, and alumni conversations to explore options while continuing to build transferable fundamentals."
+  }
+]

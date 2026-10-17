@@ -1,0 +1,86 @@
+[
+  {
+    "id": "se-frontend-01",
+    "role": "Frontend Engineer",
+    "category": "Frontend Development",
+    "overview": "Frontend Engineers specialize in creating intuitive, responsive user interfaces and client-side web applications using modern web standards and frameworks.",
+    "core_skills": ["JavaScript (ES6+)", "TypeScript", "React", "HTML5", "CSS3 / Tailwind CSS", "Redux / Zustand", "Git", "REST APIs", "Vite / Next.js", "Web Performance Optimization"],
+    "learning_roadmap": [
+      "Master HTML5 semantic layout, modern CSS flexbox/grid, and responsive mobile-first design.",
+      "Deep dive into vanilla JavaScript (closures, asynchronous async/await, DOM manipulation, ES modules).",
+      "Learn TypeScript fundamentals for scalable enterprise application codebases.",
+      "Specialize in React 18, hook lifecycles (useState, useEffect, useMemo), state managers, and component architecture.",
+      "Understand build tooling (Vite, Webpack), package management (npm), and CI/CD basics."
+    ],
+    "interview_topics": [
+      "Virtual DOM vs Real DOM and React reconciliation mechanism.",
+      "State management trade-offs (Context API vs Redux Toolkit vs Zustand).",
+      "CSS specificity, box model, and CSS-in-JS vs utility-first Tailwind CSS.",
+      "Performance optimization: Code splitting, lazy loading, image optimization, memoization.",
+      "Web accessibility (a11y) standards and semantic HTML."
+    ],
+    "diu_campus_advice": "Join DIU Computer & Programming Club (CPC), build portfolio projects hosted on Vercel/GitHub Pages, and participate in campus hackathons."
+  },
+  {
+    "id": "se-backend-02",
+    "role": "Backend Engineer",
+    "category": "Backend Development",
+    "overview": "Backend Engineers architect reliable server-side systems, design relational and NoSQL databases, construct secure REST/GraphQL APIs, and manage business logic.",
+    "core_skills": ["Python / Node.js / Java / Go", "FastAPI / Express / Spring Boot", "SQL (PostgreSQL, MySQL)", "SQLAlchemy / Prisma", "Redis", "Docker", "Authentication (JWT, OAuth2)", "REST APIs", "Microservices Architecture"],
+    "learning_roadmap": [
+      "Master a primary backend language such as Python (FastAPI/Django) or JavaScript/TypeScript (Node.js/Express).",
+      "Deeply study relational database design, normalization, ACID properties, indexing, and query optimization.",
+      "Implement secure authentication patterns (OAuth2, JWT, Bcrypt password hashing, RBAC).",
+      "Containerize microservices using Docker and write multi-container Docker Compose definitions.",
+      "Learn asynchronous programming, background tasks (Celery, RQ), and caching strategies with Redis."
+    ],
+    "interview_topics": [
+      "Database indexing: B-trees, hash indexes, composite keys, and EXPLAIN query analysis.",
+      "RESTful API design principles and HTTP status code semantics.",
+      "Concurrency, async I/O event loops, and thread pools.",
+      "Session management vs stateless JWT bearer authentication.",
+      "System design basics: Load balancers, caching layers, database replication, and rate limiting."
+    ],
+    "diu_campus_advice": "Focus heavily on DIU's Database Management Systems (DBMS) and Object Oriented Programming (OOP) courses. Build robust CRUD APIs with automated tests."
+  },
+  {
+    "id": "se-fullstack-03",
+    "role": "Full-Stack Engineer",
+    "category": "Full-Stack Development",
+    "overview": "Full-Stack Engineers bridge the client and server sides, delivering complete end-to-end web products from database schemas up to responsive user interfaces.",
+    "core_skills": ["React / Next.js", "Node.js / Python / FastAPI", "PostgreSQL / MongoDB", "Tailwind CSS", "TypeScript", "Docker", "Git / GitHub Actions", "Cloud Deployment (AWS, GCP, Render)"],
+    "learning_roadmap": [
+      "Build strong foundations in both frontend web components and backend RESTful architectures.",
+      "Implement unified full-stack projects combining React with FastAPI or Node.js.",
+      "Learn deployment workflows, environment variable configurations, and automated testing.",
+      "Develop deep appreciation for UX/UI usability combined with backend throughput and latency."
+    ],
+    "interview_topics": [
+      "Full request-response cycle from browser DNS lookup to server database execution.",
+      "CORS (Cross-Origin Resource Sharing) mechanisms and preflight OPTIONS requests.",
+      "API contracts and data validation between frontend forms and backend models.",
+      "Monolith vs microservices trade-offs and full-stack deployment architectures."
+    ],
+    "diu_campus_advice": "Your DIU Capstone Project is your primary portfolio showcase for local tech recruiters at Brain Station 23, BJIT, and Enosis."
+  },
+  {
+    "id": "se-uiux-04",
+    "role": "UI/UX Designer",
+    "category": "Design & User Experience",
+    "overview": "UI/UX Designers conduct user research, create wireframes and high-fidelity prototypes, and construct coherent design systems that make software delightful and accessible.",
+    "core_skills": ["Figma", "Design Systems", "User Research", "Wireframing & Prototyping", "Information Architecture", "Usability Testing", "Design Tokens", "HTML/CSS Basics"],
+    "learning_roadmap": [
+      "Master Figma tools: Auto-layout, components, variants, variables, and interactive prototyping.",
+      "Study human-computer interaction (HCI) fundamentals and Nielsen Norman usability heuristics.",
+      "Conduct user interviews, persona mapping, and empathy-driven user journey mapping.",
+      "Collaborate with engineering teams by understanding technical layout constraints and design handoffs."
+    ],
+    "interview_topics": [
+      "Walkthrough of a case study showcasing discovery, user research, wireframing, and final outcome.",
+      "Design systems governance, tokenization, and developer handoff best practices.",
+      "Accessibility guidelines (WCAG 2.1 AA contrast ratios, screen reader compatibility).",
+      "Handling constructive feedback and user testing anomalies."
+    ],
+    "diu_campus_advice": "Participate in UI/UX design competitions organized by the DIU Multimedia & Creative Technology (MCT) and CSE clubs."
+  }
+]

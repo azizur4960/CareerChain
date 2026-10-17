@@ -1,0 +1,63 @@
+[
+  {
+    "id": "qa-automation-01",
+    "role": "QA Automation Engineer",
+    "category": "Quality Assurance & Testing",
+    "overview": "QA Automation Engineers write automated test scripts, build testing harnesses, and ensure high reliability, performance, and security across software release cycles.",
+    "core_skills": ["Selenium / Playwright / Cypress", "Python / Java / JavaScript", "Postman / Newman / REST Assured", "TestNG / Pytest", "CI/CD Integration (GitHub Actions, Jenkins)", "Performance Testing (JMeter)", "Bug Tracking (Jira)"],
+    "learning_roadmap": [
+      "Master manual testing concepts: Test plan creation, test case design, black-box vs white-box methodologies.",
+      "Learn automated UI testing frameworks: Playwright or Cypress with JavaScript/TypeScript, or Selenium with Python.",
+      "Master API testing automation using Postman, Newman, and Pytest / Requests.",
+      "Integrate automated regression test suites into GitHub Actions or Jenkins pipelines."
+    ],
+    "interview_topics": [
+      "Page Object Model (POM) design pattern and maintainable test architecture.",
+      "Flaky test mitigation and explicit vs implicit wait strategies.",
+      "API response validation: Status codes, schema validation, latency SLAs.",
+      "Bug life cycle and defect severity vs priority prioritization."
+    ],
+    "diu_campus_advice": "Software testing is a major hiring domain for top local companies like Brain Station 23, BJIT, and Therap Services. Showcase automated test suites in your projects."
+  },
+  {
+    "id": "devops-engineer-02",
+    "role": "DevOps Engineer",
+    "category": "DevOps, SRE & Cloud Engineering",
+    "overview": "DevOps Engineers automate infrastructure provisioning, continuous integration and deployment (CI/CD), system observability, and cloud security.",
+    "core_skills": ["Linux / Shell Scripting", "Docker & Kubernetes", "CI/CD (GitHub Actions, GitLab CI)", "Terraform (IaC)", "Cloud Platforms (AWS, Azure, GCP)", "Monitoring (Prometheus, Grafana)", "Nginx / Reverse Proxies", "Networking Fundamentals"],
+    "learning_roadmap": [
+      "Attain mastery of Linux CLI, shell scripting, system permissions, and network sockets.",
+      "Containerize microservices with Docker, multi-stage builds, and Docker Compose.",
+      "Learn CI/CD automation: Automated linting, testing, image building, and automated deployment.",
+      "Master Kubernetes architecture: Pods, Deployments, Services, Ingress, and ConfigMaps.",
+      "Provision reproducible cloud infrastructure with Terraform."
+    ],
+    "interview_topics": [
+      "Docker internals: Namespaces, cgroups, layered filesystem, and image size optimization.",
+      "Kubernetes pod lifecycle and rolling zero-downtime deployment strategies.",
+      "Infrastructure as Code (IaC) state management and drift detection.",
+      "Observability triad: Metrics, Logs, and Distributed Tracing."
+    ],
+    "diu_campus_advice": "Earn an AWS Certified Cloud Practitioner or Kubernetes CKA certification during 3rd/4th year to stand out in the campus recruitment drive."
+  },
+  {
+    "id": "mobile-engineer-03",
+    "role": "Mobile App Engineer",
+    "category": "Mobile Application Development",
+    "overview": "Mobile App Engineers build performant, responsive native and cross-platform applications for iOS and Android smartphones and tablets.",
+    "core_skills": ["Flutter / React Native", "Dart / TypeScript / Kotlin / Swift", "State Management (Bloc, Provider, Redux)", "REST / GraphQL API Integration", "Local Storage (SQLite, Hive)", "App Store & Play Store Deployment", "Push Notifications (Firebase)"],
+    "learning_roadmap": [
+      "Master modern cross-platform frameworks: Flutter (Dart) or React Native (TypeScript).",
+      "Understand mobile architectural patterns: MVVM, Clean Architecture, BLoC pattern.",
+      "Integrate hardware features: Camera, GPS, biometrics, offline local sync.",
+      "Publish at least one functional app to Google Play Store."
+    ],
+    "interview_topics": [
+      "Flutter widget tree: StatelessWidget vs StatefulWidget vs RenderObject.",
+      "React Native bridge and new architecture (Fabric, TurboModules).",
+      "App performance: Frame rates (60fps/120fps), memory leaks, and startup time.",
+      "Offline-first synchronization patterns and conflict resolution."
+    ],
+    "diu_campus_advice": "Showcase working APK download links or live Google Play Store listings on your CV."
+  }
+]

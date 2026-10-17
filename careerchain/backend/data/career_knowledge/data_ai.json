@@ -1,0 +1,82 @@
+[
+  {
+    "id": "ai-data-analyst-01",
+    "role": "Data Analyst",
+    "category": "Data & Analytics",
+    "overview": "Data Analysts inspect, clean, transform, and model data to uncover actionable insights, trends, and support strategic decision-making.",
+    "core_skills": ["SQL (Advanced Queries, CTEs, Window Functions)", "Python (Pandas, NumPy, Matplotlib, Seaborn)", "Excel / Google Sheets", "Power BI / Tableau", "Data Wrangling", "Statistical Analysis", "Business Intelligence"],
+    "learning_roadmap": [
+      "Master SQL: Aggregations, multi-table joins, subqueries, and window functions (ROW_NUMBER, RANK, LEAD/LAG).",
+      "Develop Python data manipulation proficiency using Pandas DataFrames and NumPy arrays.",
+      "Build interactive business dashboards using Power BI or Tableau with clear storytelling.",
+      "Study descriptive statistics, hypothesis testing, and AB testing methodologies."
+    ],
+    "interview_topics": [
+      "Complex SQL scenarios (calculating retention rates, cohort analysis, cumulative sums).",
+      "Handling missing data, outliers, and data normalization strategies.",
+      "Exploratory Data Analysis (EDA) process and dashboard KPI selection.",
+      "Communicating quantitative findings to non-technical stakeholders."
+    ],
+    "diu_campus_advice": "Analyze datasets relevant to Bangladesh (e.g., telecom, fintech, retail, healthcare) and share insights on LinkedIn and GitHub."
+  },
+  {
+    "id": "ai-data-scientist-02",
+    "role": "Data Scientist",
+    "category": "Data Science & Statistics",
+    "overview": "Data Scientists apply statistical methods, machine learning algorithms, and predictive modeling to solve complex predictive problems.",
+    "core_skills": ["Python / R", "Scikit-Learn", "Pandas & NumPy", "Statistical Modeling", "Feature Engineering", "Supervised & Unsupervised Learning", "SQL", "Model Evaluation & Metrics"],
+    "learning_roadmap": [
+      "Gain deep understanding of linear algebra, multivariable calculus, and probability distributions.",
+      "Implement core ML algorithms: Linear/Logistic Regression, Decision Trees, Random Forests, XGBoost, K-Means.",
+      "Master feature selection, cross-validation, hyperparameter tuning, and metric evaluation (ROC-AUC, F1-Score).",
+      "Deploy basic predictive models as REST APIs using FastAPI or Flask."
+    ],
+    "interview_topics": [
+      "Bias-Variance trade-off and regularization techniques (L1 Lasso, L2 Ridge).",
+      "Overfitting prevention: Cross-validation, early stopping, pruning.",
+      "Precision vs Recall trade-offs in imbalanced classification problems.",
+      "Feature engineering techniques for categorical and continuous variables."
+    ],
+    "diu_campus_advice": "Participate in Kaggle competitions and publish detailed walkthrough notebooks. Collaborate with DIU research groups in AI/ML."
+  },
+  {
+    "id": "ai-ml-engineer-03",
+    "role": "Machine Learning Engineer",
+    "category": "Artificial Intelligence & ML Systems",
+    "overview": "Machine Learning Engineers design, train, deploy, and scale production-grade ML and deep learning models inside operational software ecosystems.",
+    "core_skills": ["Python", "PyTorch / TensorFlow", "Scikit-Learn", "MLOps (MLflow, DVC)", "Docker", "FastAPI", "ONNX / TensorRT", "Transformer Models / HuggingFace", "Cloud Platforms (AWS SageMaker, GCP Vertex AI)"],
+    "learning_roadmap": [
+      "Master deep learning architectures: CNNs, RNNs/LSTMs, Transformers, and Attention mechanisms.",
+      "Learn HuggingFace ecosystem for NLP (BERT, RoBERTa, LLMs) and Computer Vision.",
+      "Implement model serving, latency optimization, model quantization, and batch inference pipelines.",
+      "Study MLOps: Automated model retraining, data drift detection, and experiment tracking."
+    ],
+    "interview_topics": [
+      "Transformer architecture internals: Multi-head self-attention, positional encoding, and scaling.",
+      "Model deployment challenges: Latency, GPU memory limits, quantization (INT8/FP16).",
+      "Data pipeline architectures and feature stores.",
+      "Fine-tuning techniques: LoRA, QLoRA, Prompt tuning."
+    ],
+    "diu_campus_advice": "Build working open-source demos on Hugging Face Spaces using Streamlit/Gradio and link them in your resume."
+  },
+  {
+    "id": "ai-data-engineer-04",
+    "role": "Data Engineer",
+    "category": "Data Infrastructure & Big Data",
+    "overview": "Data Engineers build scalable data pipelines, extract-transform-load (ETL) workflows, data warehouses, and distributed processing infrastructure.",
+    "core_skills": ["Python", "SQL (Advanced)", "Apache Spark / PySpark", "Airflow / Prefect", "Kafka", "Data Warehousing (Snowflake, BigQuery)", "PostgreSQL", "Docker", "AWS / Azure"],
+    "learning_roadmap": [
+      "Learn data warehousing principles: Star schema, Snowflake schema, and slowly changing dimensions (SCD).",
+      "Build batch ETL pipelines using Apache Spark and schedule DAGs with Apache Airflow.",
+      "Understand real-time stream processing basics with Apache Kafka.",
+      "Optimize distributed queries and manage data partitioning."
+    ],
+    "interview_topics": [
+      "ETL vs ELT architectural trade-offs.",
+      "Spark execution engine: RDDs, DataFrames, transformations vs actions, and shuffling.",
+      "Partitioning, bucketing, and clustering in modern columnar data warehouses.",
+      "Data consistency and idempotency in pipeline retries."
+    ],
+    "diu_campus_advice": "Focus on DIU Distributed Systems and Database courses. Work on end-to-end data pipeline projects with public open datasets."
+  }
+]

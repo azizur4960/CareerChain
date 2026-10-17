@@ -1,0 +1,76 @@
+[
+  {
+    "id": "prep-resume-01",
+    "topic": "Software Engineering Resume Best Practices",
+    "category": "Resume & Portfolio",
+    "key_guidelines": [
+      "Keep it strictly to 1 page for fresh graduates and early career engineers.",
+      "Use the Google XYZ Formula for bullet points: Accomplished [X], as measured by [Y], by doing [Z].",
+      "Include direct clickable links to GitHub repositories, live demo URLs, and your LinkedIn profile.",
+      "List technical skills categorized by Languages, Frameworks/Libraries, Databases, and Tools/DevOps.",
+      "Highlight academic achievements, Capstone project, hackathons, and DIU club leadership roles."
+    ],
+    "common_mistakes": [
+      "Using non-ATS-compliant graphical rating bars (e.g., 'Python 4/5 stars').",
+      "Listing generic buzzwords without demonstrable project proof.",
+      "Spelling errors in technology names (e.g., 'Javascript', 'ReactJs' instead of 'JavaScript', 'React').",
+      "Omitting live demo links or keeping GitHub repositories private."
+    ],
+    "actionable_checklist": [
+      "Ensure all project repositories have a comprehensive README with screenshots, architecture diagrams, and setup instructions.",
+      "Export as a clean, text-selectable PDF.",
+      "Tailor keywords to match specific job descriptions before submitting."
+    ]
+  },
+  {
+    "id": "prep-technical-02",
+    "topic": "Data Structures, Algorithms & Problem Solving",
+    "category": "Technical Interview Preparation",
+    "key_guidelines": [
+      "Solve at least 150-200 LeetCode problems (focus on Blind 75 and NeetCode 150).",
+      "Master Big-O time and space complexity analysis for every solution.",
+      "Core topics: Arrays, Two Pointers, Sliding Window, Hash Maps, Linked Lists, Trees/BST, Graphs (BFS/DFS), Dynamic Programming.",
+      "Always communicate your thought process out loud before writing any code in an interview."
+    ],
+    "interview_framework": [
+      "1. Clarify edge cases and constraints (null values, negative numbers, memory limits).",
+      "2. Propose a brute-force solution and state its complexity.",
+      "3. Optimize the approach with appropriate data structures.",
+      "4. Write clean, idiomatic code with descriptive variable names.",
+      "5. Dry run with a sample test case and walk through edge cases."
+    ],
+    "diu_specific_resources": "Join the DIU Competitive Programming Club (CPC) grooming sessions and attend Intra-DIU programming contests."
+  },
+  {
+    "id": "prep-behavioral-03",
+    "topic": "Behavioral & HR Interview Mastery",
+    "category": "Behavioral & Culture Fit",
+    "key_guidelines": [
+      "Use the STAR Method: Situation, Task, Action, and Result for every behavioral question.",
+      "Prepare 4-5 core stories covering: resolving team conflict, meeting tight deadlines, overcoming technical failure, and leading an initiative.",
+      "Emphasize collaboration, curiosity, adaptability, and proactive problem solving."
+    ],
+    "frequent_questions": [
+      "Tell me about a challenging bug you encountered in a team project and how you resolved it.",
+      "Describe a disagreement you had with a team member during your DIU Capstone project and how you handled it.",
+      "Why do you want to join our company specifically?",
+      "Where do you see yourself in 3 years in the tech industry?"
+    ],
+    "closing_questions_to_ask_interviewer": [
+      "What does the day-to-day workflow look like for an associate engineer in your team?",
+      "What technical challenge is currently keeping the engineering leadership up at night?",
+      "How does the team foster mentorship and continuous learning for junior engineers?"
+    ]
+  },
+  {
+    "id": "prep-diu-placements-04",
+    "topic": "DIU Campus Placement & Job Referral Strategies",
+    "category": "Networking & Placements",
+    "key_guidelines": [
+      "Connect with DIU alumni working in target companies on LinkedIn and the CareerChain platform.",
+      "Personalize outreach messages: mention shared university background, specific admiration for their company's tech stack, and share your concise portfolio link.",
+      "Participate actively in the annual DIU Job Fair, campus recruitment drives, and company tech talks.",
+      "Request referrals politely after establishing rapport, providing the specific Job ID and a 3-sentence summary of why you fit the role."
+    ]
+  }
+]
